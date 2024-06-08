@@ -22,3 +22,22 @@ git clone https://github.com/arif-hidyawan/ecommerce-app.git
 cd ecommerce-app
 ```
 3. Install PHP dependencies using Composer:
+```bash
+composer install
+```
+4. Install JavaScript dependencies using npm:
+```bash
+npm install
+```
+5. Set up your environment file:
+ - Copy the example environment file: .env.example to .env.
+ - Modify .env file according to your environment settings.
+6. Generate application key:
+```bash
+php artisan key:generate
+```
+7. Run database migrations:
+```bash
+php artisan migrate
+```
+9. 
