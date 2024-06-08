@@ -7,7 +7,17 @@ This project implements an order management system for an e-commerce platform. T
 ### Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-PHP (version 7.4 or higher)
-Composer
-Node.js and npm
-MySQL or SQLite database
+    PHP (version 7.4 or higher)
+    Composer
+    Node.js and npm
+    MySQL or SQLite database
+
+### Steps
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/your-project.git](https://github.com/arif-hidyawan/ecommerce-app.git
+```
+2. Navigate to the project directory:
+3. ```bash
+cd ecommerce-app
+```
