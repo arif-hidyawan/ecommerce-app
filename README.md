@@ -18,6 +18,7 @@ Before you begin, ensure you have met the following requirements:
 git clone https://github.com/your-username/your-project.git](https://github.com/arif-hidyawan/ecommerce-app.git
 ```
 2. Navigate to the project directory:
-3. ```bash
+```bash
 cd ecommerce-app
 ```
+3. Install PHP dependencies using Composer:
