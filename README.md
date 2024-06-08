@@ -40,4 +40,6 @@ php artisan key:generate
 ```bash
 php artisan migrate
 ```
-9. 
+
+## API Endpoints
+
