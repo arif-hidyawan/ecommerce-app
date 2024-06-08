@@ -4,8 +4,7 @@ This project implements an order management system for an e-commerce platform. T
 
 ## Installation
 
-Prerequisites
-
+### Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 PHP (version 7.4 or higher)
