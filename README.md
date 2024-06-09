@@ -42,4 +42,7 @@ php artisan migrate
 ```
 
 ## API Endpoints
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
